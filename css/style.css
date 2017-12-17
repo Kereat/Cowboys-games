@@ -1,0 +1,25 @@
+      #stat1, #stat2, #statsapp, #cowboy1, #cowboy2, #text { position: absolute; overflow: auto; } 
+   		#stat1 { 
+    		top: 185px;
+    		left: 170px;
+   		}
+   		#stat2 {
+   			top: 185px; 
+    		right: 220px;
+   		}
+   		#statsapp {
+   			top: 10px;
+   			left: 20px;
+   		}
+   		#cowboy1 {
+   			bottom: 20px;
+   			left: 170px;
+   		}
+   		#cowboy2 {
+   			bottom: 20px;
+   			right: 170px;
+   		}
+   		#text {
+   			top: 10px;
+   			right: 30px;
+   		}
